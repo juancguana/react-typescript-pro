@@ -1,0 +1,22 @@
+.bg-dark {
+  background-color: rgb(56,56,56) ;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.custom-img {
+  border-radius: 20px;
+  padding: 10px;
+  width: calc(100% - 20px);
+}
+
+.custom-button button, .custom-button span {
+  color: white;
+  border-color: white;
+}
